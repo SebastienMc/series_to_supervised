@@ -1,8 +1,7 @@
 # series_to_supervised
 Simple function to turn a time series into an ML ready dataset.
 
-Originally sourced from:
-https://machinelearningmastery.com/convert-time-series-supervised-learning-problem-python/
+Originally sourced from: [Machine Learning Mastery](https://machinelearningmastery.com/convert-time-series-supervised-learning-problem-python/) 
 
 ---
 
